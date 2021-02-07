@@ -259,4 +259,4 @@ src/Acme.BookStore.HttpApi.Host/Logs/*
 src/Acme.BookStore.HttpApi.HostWithIds/Logs/*
 src/Acme.BookStore.DbMigrator/Logs/*
 
-appsettings.json
+**/appsettings.json
